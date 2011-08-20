@@ -17,9 +17,10 @@ This plugin is useful if you need to do some sort of client billing or let the c
 
 The following is a list of available filters for you to use in your theme's functions.php file:
 
+* tgm_jigoshop_custom_icon
 * tgm_jigoshop_custom_gateway_title
 * tgm_jigoshop_custom_gateway_description
-* tgm_jigshop_enable_custom_gateway_title
+* tgm_jigoshop_enable_custom_gateway_title
 * tgm_jigoshop_method_tooltip_description
 * tgm_jigoshop_method_tooltip_title
 * tgm_jigoshop_message_tooltip_description
@@ -37,6 +38,9 @@ This plugin was created by [Thomas Griffin](http://thomasgriffinmedia.com/ "Thom
 3. Navigate to `Jigoshop > Settings > Payment Gateways` to see your new payment gateway.
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed spelling error for one filter and added icon filter to readme
 
 = 1.0 =
 * Initial release.

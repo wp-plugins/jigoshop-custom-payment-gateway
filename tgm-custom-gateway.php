@@ -3,7 +3,7 @@
 Plugin Name: Jigoshop Custom Payment Gateway
 Plugin URI: http://wordpress.org/extend/plugins/jigoshop-custom-payment-gateway
 Description: This plugin extends the Jigoshop payment gateways to add in a custom gateway for tgm_custom_gateway use. You can use this in place of the test "Cheque" for client billing accounts or other non-traditional forms of payment.
-Version: 1.0
+Version: 1.0.1
 Author: Thomas Griffin
 Author URI: http://thomasgriffinmedia.com/
 */
@@ -62,7 +62,7 @@ function tgm_jigoshop_custom_payment_gateway() {
     		?>
     		<thead><tr><th scope="col" width="200px"><?php echo apply_filters( 'tgm_jigoshop_custom_gateway_title', 'Client Payments' ); ?></th><th scope="col" class="desc"><?php echo apply_filters( 'tgm_jigoshop_custom_gateway_description', 'This payment gateway is setup specifically for client billing accounts. Orders will be processed and billed directly to existing client accounts.' ); ?></th></tr></thead>
     		<tr>
-	        	<td class="titledesc"><?php echo apply_filters( 'tgm_jigshop_enable_custom_gateway_title', 'Enable Client Payments?' ) ?>:</td>
+	        	<td class="titledesc"><?php echo apply_filters( 'tgm_jigoshop_enable_custom_gateway_title', 'Enable Client Payments?' ) ?>:</td>
 	        		<td class="forminp">
 		        		<select name="jigoshop_tgm_custom_gateway_enabled" id="jigoshop_tgm_custom_gateway_enabled" style="min-width:100px;">
 		            		<option value="yes" <?php if ( get_option( 'jigoshop_tgm_custom_gateway_enabled' ) == 'yes' ) echo 'selected="selected"'; ?>><?php _e( 'Yes', 'jigoshop' ); ?></option>
