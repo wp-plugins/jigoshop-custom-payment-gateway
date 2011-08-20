@@ -17,14 +17,14 @@ This plugin is useful if you need to do some sort of client billing or let the c
 
 The following is a list of available filters for you to use in your theme's functions.php file:
 
-*tgm_jigoshop_custom_gateway_title
-*tgm_jigoshop_custom_gateway_description
-*tgm_jigshop_enable_custom_gateway_title
-*tgm_jigoshop_method_tooltip_description
-*tgm_jigoshop_method_tooltip_title
-*tgm_jigoshop_message_tooltip_description
-*tgm_jigoshop_message_tooltip_title
-*tgm_jigoshop_order_update_status
+* tgm_jigoshop_custom_gateway_title
+* tgm_jigoshop_custom_gateway_description
+* tgm_jigshop_enable_custom_gateway_title
+* tgm_jigoshop_method_tooltip_description
+* tgm_jigoshop_method_tooltip_title
+* tgm_jigoshop_message_tooltip_description
+* tgm_jigoshop_message_tooltip_title
+* tgm_jigoshop_order_update_status
 
 There are also 2 action hooks that can be used: **tgm_jigoshop_payment_fields** and **tgm_jigoshop_thankyou_page**.
 
