@@ -9,6 +9,8 @@ This plugin adds a simple custom payment gateway similar to the "Cheque" gateway
 
 == Description ==
 
+**Note: This plugin is no longer being maintained or supported. Download and use at your own risk.**
+
 The "Cheque" payment gateway could actually be quite useful, but it is limiting because you cannot customize it. This plugin adds a new payment gateway similar to the "Cheque" payment gateway but with a bunch of filters for customization. You can customize any part of the text, the icon displayed beside the gateway on the Checkout page, the default order status when using this gateway, etc.
 
 This plugin is useful if you need to do some sort of client billing or let the client handle the payment processing on their end. It has a business-to-business mindset.
