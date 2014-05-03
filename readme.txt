@@ -31,7 +31,7 @@ The following is a list of available filters for you to use in your theme's func
 
 There are also 2 action hooks that can be used: **tgm_jigoshop_payment_fields** and **tgm_jigoshop_thankyou_page**.
 
-This plugin was created by [Thomas Griffin](http://thomasgriffinmedia.com/ "Thomas Griffin Media").
+This plugin was created by <a href="http://thomasgriffinmedia.com/" rel="friend" title="Thomas Griffin">Thomas Griffin</a>. Check out some of my other products, including <a href="http://soliloquywp.com/" rel="friend" title="Soliloquy - the best responsive WordPress slider plugin">Soliloquy - the best responsive WordPress slider plugin</a>, <a href="http://enviragallery.com/" rel="friend" title="Envira Gallery - the best responsive WordPress gallery plugin">Envira Gallery - the best responsive WordPress gallery plugin</a> and <a href="http://optinmonster.com/" rel="friend" title="OptinMonster">OptinMonster</a>.
 
 == Installation ==
 
