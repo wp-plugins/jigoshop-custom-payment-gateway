@@ -1,7 +1,7 @@
 === Jigoshop Custom Payment Gateway ===
 Contributors: griffinjt
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JMZ2X8NK26X4N
-Tags: jigoshop, cart, checkout, ecommerce, shop, payment, gateway
+Tags: jigoshop, cart, checkout, ecommerce, shop, payment, gateway, payment gateway
 Requires at least: 3.2
 Tested up to: 3.2.1
 
@@ -32,6 +32,15 @@ The following is a list of available filters for you to use in your theme's func
 There are also 2 action hooks that can be used: **tgm_jigoshop_payment_fields** and **tgm_jigoshop_thankyou_page**.
 
 This plugin was created by <a href="http://thomasgriffin.io" rel="me" title="WordPress Developer - Thomas Griffin">Thomas Griffin</a>. Check out some of my other products, including <a href="http://soliloquywp.com/" rel="friend" title="Soliloquy - the best responsive WordPress slider plugin">Soliloquy - the best responsive WordPress slider plugin</a>, <a href="http://enviragallery.com/" rel="friend" title="Envira Gallery - the best responsive WordPress gallery plugin">Envira Gallery - the best responsive WordPress gallery plugin</a> and <a href="http://optinmonster.com/" rel="friend" title="OptinMonster">OptinMonster</a>.
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-66829986-1', 'auto');
+  ga('send', 'pageview');
+</script>
 
 == Installation ==
 
